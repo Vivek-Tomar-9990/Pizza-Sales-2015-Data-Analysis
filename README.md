@@ -11,7 +11,7 @@
 
 ## Project Description
 ### Overview
-This project involves the analysis of Pizza Sales during the 2015 data using various tools including Excel, SQL, Figma. The primary aim is to clean, structure, and analyze the data to derive meaningful insights and create comprehensive reports.
+This project involves the analysis of Pizza Sales during the 2015 data using various tools including Excel, SQL. The primary aim is to clean, structure, and analyze the data to derive meaningful insights and create comprehensive reports.
 
 ### Motivation
 The goal of this project is to demonstrate the end-to-end data analysis process starting from data cleaning to visualization. By leveraging powerful analytical tools, this project showcases how to handle datasets efficiently and create insightful reports.
