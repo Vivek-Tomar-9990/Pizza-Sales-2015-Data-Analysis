@@ -40,7 +40,7 @@ Transformed the data in Power Query in required structure.
 Created Pivot Table for KPI and data visualisation.
 Performed additional transformations in Power Query if needed.
 ### Step 5: Report Creation
-Created comprehensive reports in Excel.
+Created comprehensive dashboard in Excel.
 
 ## Features
 * SQL: Finding the KPIs
