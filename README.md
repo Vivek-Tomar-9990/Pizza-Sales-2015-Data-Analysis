@@ -1,4 +1,4 @@
-# Pizza Sales 2015 Data Analysis
+# Pizza Sales Data Analysis
 
 ## Table of Contents
 * Project Description
